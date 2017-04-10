@@ -3,7 +3,7 @@ this program works by graphing a bunch of points of one
 """
 ## setup
 # defaults
-s = 1000 # number of samples
+s = 100000 # number of samples
 d = 20 # diameter
 print("samples: " + str(s))
 print("diameter: " + str(d))
